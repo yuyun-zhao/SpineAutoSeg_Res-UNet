@@ -1,0 +1,1 @@
+You should store image data here
