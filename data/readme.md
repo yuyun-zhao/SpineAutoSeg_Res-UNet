@@ -1,1 +1,2 @@
-You should store image data here
+You should store image data here.
+
